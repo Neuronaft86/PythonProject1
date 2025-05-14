@@ -1,4 +1,4 @@
-#calculator222
+#calculator
 # Функция для сложения
 def add(x, y):
     return x + y
